@@ -1,3 +1,5 @@
+// WEBSITE WELCOME
+
 function namePrompt(){
     console.log("this is coming from namePrompt");
     var name = prompt("What is your name?");
